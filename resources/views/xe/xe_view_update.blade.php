@@ -77,7 +77,7 @@
           <label for="fname">Ảnh</label>
         </div>
         <div class="col-75">
-          <input type="file" id="fname" name="Anh" value="{{$xe->Anh}}">
+          <input type="file" id="fname" name="Anh" required="">
         </div>
       </div>
 
@@ -104,7 +104,7 @@
           <label for="subject">Mô Tả</label>
         </div>
         <div class="col-75">
-          <textarea id="subject" name="Mo_ta" style="height:200px" value="{{$xe->Hang_xe}}"></textarea>
+          <textarea id="subject" name="Mo_ta" style="height:200px">{{$xe->Hang_xe}}</textarea>
         </div>
       </div>
 

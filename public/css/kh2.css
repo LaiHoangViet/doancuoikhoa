@@ -28,3 +28,7 @@ a.menu-khach-hang1 {
   background-color: unset;
   color: #0D47A1;
 }
+
+.view-khach-hang1 {
+  max-width: 500px;
+}

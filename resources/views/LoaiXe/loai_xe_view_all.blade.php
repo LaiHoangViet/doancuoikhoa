@@ -42,7 +42,7 @@
 		</button>
 	</a><br><br>
 
-	<table class="table table-striped view-khach-hang table-responsive-lg">
+	<table class="table table-striped view-khach-hang table-responsive-lg view-khach-hang1">
 		<thead>
 			<tr>
 				<th scope="col">Tên Loại Xe</th>

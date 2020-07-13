@@ -39,7 +39,7 @@
 	<h1>Danh sách xe</h1>
 	<a href="{{ route('xe.xe_view_insert') }}">
 		<button>
-			Thêm Admin
+			Thêm Xe
 		</button>
 	</a>
 	<br><br>

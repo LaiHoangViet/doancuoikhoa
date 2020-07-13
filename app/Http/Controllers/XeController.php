@@ -66,7 +66,7 @@ class XeController extends Controller
         $xe->Ma_xe = $id;
         $xe     = $xe->get_one();
 
-        $loai_xe       = new Xe();
+        $loai_xe       = new LoaiXe();
         $array_loai_xe = $loai_xe->get_all();
 
         return view('Xe/xe_view_update',[
