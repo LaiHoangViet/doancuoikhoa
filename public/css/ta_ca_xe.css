@@ -21,3 +21,13 @@ span.Ten_xe {
 .col-md-4.tat-ca-xe1 {
 	padding: 12px;
 }
+
+img.anh-san-pham {
+    width: 100%;
+    height: 238px;
+}
+
+.thumbnails {
+	overflow: hidden;
+	height: 253px;
+}
